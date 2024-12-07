@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<p style="text-align:justify"><b>Note: </b>I am actively seeking full-time roles as a Software Engineer, Machine Learning Engineer, or Data Scientist.</p>
+
 <p style="text-align:justify">I am currently enrolled in the Electrical and Computer Engineering (ECE) Master’s program at the University of Delaware and will be graduating in May 2025.<br/> For my master’s thesis, I am exploring reinforcement learning-based solutions for hardware security.</p>
 
- <p style="text-align:justify">I am actively seeking full-time roles as a Software Engineer, Machine Learning Engineer, or Data Scientist.</p>
 
 <p style="text-align:justify">During the summer of 2024, I am working as a Research Engineer at <a href="https://www.mbd.xyz/">Mbd.xyz</a>, focusing on deploying LLMs on AOS using ONNXRuntime and bridging recommendation system algorithms. Additionally, as a personal project, I am investigating the use of large language models (LLMs) to better structure qualitative data on Indian capital markets.
 </p>
